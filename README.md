@@ -8,13 +8,13 @@
 
 4. Once you are a collaborator you will receive an email. Then accept the collaborator request.
 
-5. Name you power bi file: yourbatchnumber_yourfullname
+5. Name you power bi file: **yourbatchnumber_yourfullname**
 
 6. Clone the repository:
-	git clone https://github.com/singamravibabu/powerbiproject.git
+	-> git clone https://github.com/singamravibabu/powerbiproject.git
 
 7. You keep pushing to the project whenever you make changes:
-		git add file_name
-		git commit -m "commit message"
-		git push origin main
+* git add yourbatchnumber_yourfullname
+* git commit -m "commit message"
+* git push origin main
 
